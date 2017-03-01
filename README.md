@@ -1,3 +1,3 @@
 # first
 
-tento repozitáø byl zaloen za úèelem splnìní úkolu è. 8
+This repository was made with the aim of completing the task number 8 from our assignment
