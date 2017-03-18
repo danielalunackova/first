@@ -1,0 +1,62 @@
+h1 {
+  font-size: 100px;
+  line-height: 76px;
+  margin: 0;
+  position: relative;
+  text-align: center;
+  top: 20%;
+  text-decoration: none;
+}
+
+h2 {
+  font-size: 30px;
+  text-align: left;
+}
+
+h1, h2 {
+  font-family: 'Covered By Your Grace', sans-serif;
+}
+
+body {
+  padding: 75px;
+  margin: 75px;
+  background: #f7f7f7;
+  border: none;
+}
+
+p {
+  color: #444444;
+  line-height: 32px;
+  font-family: 'Raleway', sans-serif;
+  font-size: 20px;
+  font-weight: 100;
+}
+
+a {
+  font-family: 'Raleway', sans-serif;
+  font-size: 20px;
+}
+
+blockquote {
+  color: #444444;
+  line-height: 32px;
+  font-family: 'Raleway', sans-serif;
+  font-size: 20px;
+  font-weight: 100;
+}
+
+li {
+  color: #444444;
+  line-height: 32px;
+  font-family: 'Raleway', sans-serif;
+  font-size: 20px;
+  font-weight: 100;
+}
+
+h1, a {
+  color: #41292C;
+}
+
+p, a {
+  font-family: 'Raleway', sans-serif;
+}
